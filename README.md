@@ -44,7 +44,6 @@ I’m a Computer Science student passionate about **Full Stack Development and A
 
 ### ⚙️ Automation & Workflow Tools
 ![UiPath](https://img.shields.io/badge/UiPath-0097FF?style=for-the-badge&logo=uipath&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-F22056?style=for-the-badge&logo=n8n&logoColor=white)
 
 ---
@@ -52,10 +51,7 @@ I’m a Computer Science student passionate about **Full Stack Development and A
 ### ☁️ Cloud & Deployment
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
-![CI/CD](https://img.shields.io/badge/CI/CD_Basics-FF4F00?style=for-the-badge)
+
 
 
 
