@@ -29,16 +29,6 @@ I’m a Computer Science student passionate about **Full Stack Development and A
 ![Deployment](https://img.shields.io/badge/Model_Deployment-0077B5?style=for-the-badge)
 ![Data_Preprocessing](https://img.shields.io/badge/Data_Preprocessing-FF9500?style=for-the-badge)
 
----
-
-### 📊 Data Analytics & Visualization
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-9B59B6?style=for-the-badge)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-00A86B?style=for-the-badge)
 
 ---
 
